@@ -1,5 +1,5 @@
 # README
-TODO List
+*TODO List*
 - [ ] Database schema
 - [ ] Web API requirements
 - [ ] Web API urls
